@@ -1,4 +1,4 @@
-# tic-plus-toe
+# Tic-Plus-Toe
 Simple tic-tac-toe clone I made using Raylib and C++.
 
 How to compile on Linux (If you have raylib setup) : `g++ main.cpp -Ofast -lraylib -lGL -lm -lpthread -ldl -lrt -lX11`
