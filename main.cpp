@@ -1,6 +1,5 @@
 #include <raylib.h> // Raylib. // Tic-Tac-Toe game.
 int main() {
-	SetConfigFlags(FLAG_VSYNC_HINT); // Enable V-SYNC.
 	InitWindow(300, 300, "Tic++"); // Create window 300x300 with title "Tic++".
 	SetTargetFPS(60); // Cap the FPS at 60.
 	// Grid horizontal line #1.
